@@ -1,0 +1,18 @@
+c:\users\aqib\documents\visual studio 2015\Projects\English Phrases\English Phrases\bin\Debug\English Phrases.exe.config
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\bin\Debug\English Phrases.exe
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\bin\Debug\English Phrases.pdb
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English Phrases.csprojResolveAssemblyReference.cache
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English_Phrases.Form1.resources
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English_Phrases.Properties.Resources.resources
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English Phrases.csproj.GenerateResource.Cache
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English Phrases.exe
+C:\Users\Aqib\Documents\Visual Studio 2015\Projects\English Phrases\English Phrases\obj\Debug\English Phrases.pdb
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English Phrases.csprojResolveAssemblyReference.cache
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English_Phrases.Form1.resources
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English_Phrases.Properties.Resources.resources
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English Phrases.csproj.GenerateResource.Cache
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English Phrases.exe
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\obj\Debug\English Phrases.pdb
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\bin\Debug\English Phrases.exe.config
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\bin\Debug\English Phrases.exe
+C:\Users\Aqib\Desktop\Work\paper\VPL THEORY\English Phrases\English Phrases\bin\Debug\English Phrases.pdb
